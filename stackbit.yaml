@@ -326,6 +326,7 @@ models:
         label: Seo
       - name: field-field
         type: string
+        required: true
   post:
     type: page
     urlPath: /posts/{slug}
