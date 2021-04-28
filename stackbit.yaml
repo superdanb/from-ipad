@@ -150,8 +150,6 @@ models:
         label: Footer Configuration
         models:
           - footer
-    file: ''
-    singleInstance: true
   header:
     type: object
     label: Header Configuration
