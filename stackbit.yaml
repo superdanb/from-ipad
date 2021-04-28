@@ -326,6 +326,7 @@ models:
         label: Seo
       - name: NewTest
         type: string
+        required: true
   post:
     type: page
     urlPath: /posts/{slug}
