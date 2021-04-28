@@ -324,7 +324,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: field field
+      - name: field-field
         type: string
   post:
     type: page
