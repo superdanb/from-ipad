@@ -203,6 +203,7 @@ models:
           type: model
           models:
             - action
+            - form_field
   footer:
     type: object
     label: Footer Configuration
