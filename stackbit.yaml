@@ -286,7 +286,8 @@ models:
         label: Form Fields
         items:
           type: model
-          models: []
+          models:
+            - form_field
       - type: string
         name: submit_label
         label: Submit Button Label
