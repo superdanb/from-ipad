@@ -297,8 +297,6 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: testname
-        type: string
   page:
     type: page
     label: Page
